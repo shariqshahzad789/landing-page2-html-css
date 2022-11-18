@@ -1,0 +1,43 @@
+.banner {
+  background-image: url("https://images03.nicepage.com/c461c07a441a5d220e8feb1a/2623c3b39a2a545eaabf1720/jtjtjtjuy-min.jpg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+.insideBanner {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.customRadius {
+  border-radius: 15px;
+}
+.iconCircle {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+  background-color: #e5e5e5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bg-primary {
+  background-color: #1847b8 !important;
+}
+.bg-light {
+  background-color: #f2f2f2 !important;
+}
+.cardImage {
+  width: 700px;
+  margin-top: 80px;
+  margin-left: -260px;
+}
+.circle {
+  width: 250px;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footerCard {
+  margin-bottom: -200px;
+}
